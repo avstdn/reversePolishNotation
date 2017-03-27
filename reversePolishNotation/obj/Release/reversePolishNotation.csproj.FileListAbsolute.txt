@@ -1,0 +1,5 @@
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\bin\Release\reversePolishNotation.exe.config
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\bin\Release\reversePolishNotation.exe
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\bin\Release\reversePolishNotation.pdb
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\obj\Release\reversePolishNotation.exe
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\obj\Release\reversePolishNotation.pdb

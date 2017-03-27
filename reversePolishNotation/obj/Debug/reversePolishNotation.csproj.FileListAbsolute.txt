@@ -1,0 +1,18 @@
+c:\users\alexey\documents\visual studio 2015\Projects\reversePolishNotation\reversePolishNotation\bin\Debug\reversePolishNotation.exe.config
+c:\users\alexey\documents\visual studio 2015\Projects\reversePolishNotation\reversePolishNotation\bin\Debug\reversePolishNotation.exe
+c:\users\alexey\documents\visual studio 2015\Projects\reversePolishNotation\reversePolishNotation\bin\Debug\reversePolishNotation.pdb
+c:\users\alexey\documents\visual studio 2015\Projects\reversePolishNotation\reversePolishNotation\obj\Debug\reversePolishNotation.csprojResolveAssemblyReference.cache
+c:\users\alexey\documents\visual studio 2015\Projects\reversePolishNotation\reversePolishNotation\obj\Debug\reversePolishNotation.exe
+c:\users\alexey\documents\visual studio 2015\Projects\reversePolishNotation\reversePolishNotation\obj\Debug\reversePolishNotation.pdb
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\bin\Debug\reversePolishNotation.exe.config
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\obj\Debug\reversePolishNotation.exe
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\obj\Debug\reversePolishNotation.pdb
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\bin\Debug\reversePolishNotation.exe
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\bin\Debug\reversePolishNotation.pdb
+C:\Users\Alexey\Desktop\reversePolishNotation\reversePolishNotation\obj\Debug\reversePolishNotation.csprojResolveAssemblyReference.cache
+C:\Users\studenikin\Desktop\reversePolishNotation\reversePolishNotation\bin\Debug\reversePolishNotation.exe.config
+C:\Users\studenikin\Desktop\reversePolishNotation\reversePolishNotation\obj\Debug\reversePolishNotation.exe
+C:\Users\studenikin\Desktop\reversePolishNotation\reversePolishNotation\obj\Debug\reversePolishNotation.pdb
+C:\Users\studenikin\Desktop\reversePolishNotation\reversePolishNotation\obj\Debug\reversePolishNotation.csprojResolveAssemblyReference.cache
+C:\Users\studenikin\Desktop\reversePolishNotation\reversePolishNotation\bin\Debug\reversePolishNotation.exe
+C:\Users\studenikin\Desktop\reversePolishNotation\reversePolishNotation\bin\Debug\reversePolishNotation.pdb
